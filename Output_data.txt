@@ -1,0 +1,12 @@
+               
+Analytic Solution			: 8.13305
+Auxiliary Process SE			: 0.0330613
+Auxiliary Process Value			: 8.12768
+CV Option SE				: 0.00566849
+CV Option Value				: 8.15741
+CV Time taken				: 3.622
+Plain MC SE				: 0.0334621
+Plain MC Time Taken			: 2.736
+Plain MC Value				: 8.15219
+Time taken				: 6.389
+Variance Reduction Ratio		: 26.3232
