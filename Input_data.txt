@@ -1,0 +1,27 @@
+S0                                      40
+X					40
+r					0.05
+sigma					0.2
+Rho                                     0
+
+N					50
+M					100000
+T					1
+    
+Y0					0.02
+
+HWSigma					0.01
+HWM					2
+Miu                                     0.02
+
+K					2
+Theta                                   0.01
+
+Alpha                                   0.1
+Beta	                                0.2
+
+DeterministicVolatilityBase		NMHW
+StochasticVolatilityBase		HW
+OptionBase				p
+MonteCarloBase  	                cv
+
